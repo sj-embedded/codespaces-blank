@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.107",
+    "@mastra/core": "^1.80.0",
+    "ai": "^7.0.155"
+  },
+  "type": "module"
+}
